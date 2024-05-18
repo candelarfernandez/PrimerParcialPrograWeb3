@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PrimerParcial/1.0.0": {
+        "dependencies": {
+          "PrimerParcial.Entidades": "1.0.0",
+          "PrimerParcial.Servicios": "1.0.0"
+        },
+        "runtime": {
+          "PrimerParcial.dll": {}
+        }
+      },
+      "PrimerParcial.Entidades/1.0.0": {
+        "runtime": {
+          "PrimerParcial.Entidades.dll": {}
+        }
+      },
+      "PrimerParcial.Servicios/1.0.0": {
+        "dependencies": {
+          "PrimerParcial.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "PrimerParcial.Servicios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimerParcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrimerParcial.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrimerParcial.Servicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

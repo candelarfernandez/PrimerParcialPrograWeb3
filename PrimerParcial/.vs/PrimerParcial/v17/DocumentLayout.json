@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PrimerParcial\\PrimerParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C97AFEBC-C4AB-4069-B657-CCE026B3F420}|PrimerParcial.csproj|c:\\users\\nitof\\source\\repos\\repositorios de practica\\primerparcial\\primerparcial\\views\\shared\\_aduanalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C97AFEBC-C4AB-4069-B657-CCE026B3F420}|PrimerParcial.csproj|solutionrelative:views\\shared\\_aduanalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97AFEBC-C4AB-4069-B657-CCE026B3F420}|PrimerParcial.csproj|c:\\users\\nitof\\source\\repos\\repositorios de practica\\primerparcial\\primerparcial\\models\\barcomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97AFEBC-C4AB-4069-B657-CCE026B3F420}|PrimerParcial.csproj|solutionrelative:models\\barcomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9348EDB1-C018-4F83-8958-C1BC859415D0}|..\\PrimerParcial.Servicios\\PrimerParcial.Servicios.csproj|c:\\users\\nitof\\source\\repos\\repositorios de practica\\primerparcial\\primerparcial.servicios\\iserviciobarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97AFEBC-C4AB-4069-B657-CCE026B3F420}|PrimerParcial.csproj|c:\\users\\nitof\\source\\repos\\repositorios de practica\\primerparcial\\primerparcial\\controllers\\barcoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97AFEBC-C4AB-4069-B657-CCE026B3F420}|PrimerParcial.csproj|solutionrelative:controllers\\barcoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97AFEBC-C4AB-4069-B657-CCE026B3F420}|PrimerParcial.csproj|C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PrimerParcial\\PrimerParcial\\views\\barcos\\listado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C97AFEBC-C4AB-4069-B657-CCE026B3F420}|PrimerParcial.csproj|solutionrelative:views\\barcos\\listado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AduanaLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PrimerParcial\\PrimerParcial\\Views\\Shared\\_AduanaLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AduanaLayout.cshtml",
+              "ToolTip": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PrimerParcial\\PrimerParcial\\Views\\Shared\\_AduanaLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AduanaLayout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T23:24:59.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BarcoModel.cs",
+              "DocumentMoniker": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PrimerParcial\\PrimerParcial\\Models\\BarcoModel.cs",
+              "RelativeDocumentMoniker": "Models\\BarcoModel.cs",
+              "ToolTip": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PrimerParcial\\PrimerParcial\\Models\\BarcoModel.cs",
+              "RelativeToolTip": "Models\\BarcoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:24:02.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IServicioBarco.cs",
+              "DocumentMoniker": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PrimerParcial\\PrimerParcial.Servicios\\IServicioBarco.cs",
+              "RelativeDocumentMoniker": "..\\PrimerParcial.Servicios\\IServicioBarco.cs",
+              "ToolTip": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PrimerParcial\\PrimerParcial.Servicios\\IServicioBarco.cs",
+              "RelativeToolTip": "..\\PrimerParcial.Servicios\\IServicioBarco.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:22:07.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Listado.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PrimerParcial\\PrimerParcial\\Views\\Barcos\\Listado.cshtml",
+              "RelativeDocumentMoniker": "Views\\Barcos\\Listado.cshtml",
+              "ToolTip": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PrimerParcial\\PrimerParcial\\Views\\Barcos\\Listado.cshtml",
+              "RelativeToolTip": "Views\\Barcos\\Listado.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T22:47:14.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BarcosController.cs",
+              "DocumentMoniker": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PrimerParcial\\PrimerParcial\\Controllers\\BarcosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BarcosController.cs",
+              "ToolTip": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PrimerParcial\\PrimerParcial\\Controllers\\BarcosController.cs",
+              "RelativeToolTip": "Controllers\\BarcosController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:38:27.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

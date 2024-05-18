@@ -1,0 +1,29 @@
+﻿@model BarcoModel
+@{
+    Layout = "_AduanaLayout";
+    ViewData["Title"] = "Registrar";
+}
+<h3>Registrar</h3>
+
+<form action="/Barcos/Registrar" method="post">
+    @Html.AntiForgeryToken()
+    <div class="form-group">
+        @Html.LabelFor(model => model.nombre)
+        @Html.TextBoxFor(model => model.nombre, new { @class = "form-control", type = "text" })
+        @Html.ValidationMessageFor(model => model.nombre, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.antiguedad)
+        @Html.TextBoxFor(model => model.antiguedad, new { @class = "form-control", type = "number" })
+        @Html.ValidationMessageFor(model => model.antiguedad, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.tripulacionMaxima)
+        @Html.TextBoxFor(model => model.tripulacionMaxima, new { @class = "form-control", type = "number" })
+        @Html.ValidationMessageFor(model => model.tripulacionMaxima, "", new { @class = "text-danger" })
+    </div>
+    <button type="submit" class="btn btn-primary">Registrar</button>
+</form>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,35 @@
+﻿
+@model List<BarcoModel>
+@{
+    Layout = "_AduanaLayout";
+    ViewData["Title"] = "Listado";
+}
+
+<h3>Listado</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>#IdBarco</th>
+            <th>Nombre</th>
+            <th>Antiguedad</th>
+            <th>Tripulacion Maxima</th>
+            <th>=</th>
+            <th>Tasa</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var resultado in Model)
+        {
+            <tr>
+                <td>@resultado.id</td>
+                <td>@resultado.nombre</td>
+                <td>@resultado.antiguedad</td>
+                <td>@resultado.tripulacionMaxima</td>
+                <td>=</td>
+                <td>$ @resultado.tasa</td>
+            </tr>
+        }
+
+    </tbody>
+</table>
